@@ -31,6 +31,11 @@
 			<locationURI>TIVAWARE_INSTALL/driverlib/ccs/Debug/driverlib.lib</locationURI>
 		</link>
 		<link>
+			<name>uart.c</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/ti/TivaWare_C_Series-2.1.4.178/driverlib/uart.c</locationURI>
+		</link>
+		<link>
 			<name>uartstdio.c</name>
 			<type>1</type>
 			<locationURI>PARENT-2-CCS_INSTALL_ROOT/TivaWare_C_Series-2.1.4.178/utils/uartstdio.c</locationURI>
